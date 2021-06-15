@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app{
+    display: grid;
+    place-items: center;
+    padding: 20px;
+    background-color: #000;
+
+    .canvasBg{
+        background-image: linear-gradient(#1D2671, #C33764);
+    }
+}
